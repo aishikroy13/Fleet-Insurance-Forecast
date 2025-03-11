@@ -1,6 +1,6 @@
-# Fleet Insurance Forecast Model for FP&A Analyst Role at Flock
+# Fleet Insurance Forecast Model 
 
-This GitHub repository contains a forecast model that predicts the number of insurance claims for commercial fleets over the coming months. The model is built using simulated data that mimics real-world fleet insurance scenarios, including vehicle telematics, driver information, claims history, and external factors like weather. The project reflects Flock's data-driven approach to fleet insurance and demonstrates key skills required for the FP&A Analyst role, such as financial modeling, data analysis, and forecasting.
+This GitHub repository contains a forecast model that predicts the number of insurance claims for commercial fleets over the coming months. The model is built using simulated data that mimics real-world fleet insurance scenarios, including vehicle telematics, driver information, claims history, and external factors like weather. 
 
 ## Key Features
 - **Data Simulation:** Synthetic datasets for vehicles, drivers, telematics, claims, and weather.
